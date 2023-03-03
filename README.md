@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/bdd281b87aaa6f4ee0a67.jpg" alt="nz" width="350"/>
+<img src="https://media1.giphy.com/media/XqVUeEK5Lt3VOGEzJj/giphy.gif" width="610"/>
 </p>
 
 ## ***Chisato-WhatsApp***
